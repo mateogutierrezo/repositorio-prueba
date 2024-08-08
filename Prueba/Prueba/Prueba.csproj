@@ -11,4 +11,8 @@
       <Compile Remove="hola.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="caca.py" />
+    </ItemGroup>
+
 </Project>
