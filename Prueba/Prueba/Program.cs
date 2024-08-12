@@ -1,11 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//123456789
 
-Console.WriteLine("Hello, World!");
-//VAMO NOSOTROS
-
-//modificado, se eliminaron archivos
-
-// y esto tambien
+//1
 
 
 
