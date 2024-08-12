@@ -1,6 +1,1 @@
-﻿//123456789
-
-//1
-
-//2
-
+﻿//Alfonso, este es mi programa funcional
