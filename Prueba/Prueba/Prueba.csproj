@@ -9,6 +9,8 @@
 
     <ItemGroup>
       <Compile Remove="hola.cs" />
+      <Compile Remove="archivo.cs" />
+      <Compile Remove="archivo-rama2.cs" />
     </ItemGroup>
 
     <ItemGroup>
