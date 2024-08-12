@@ -4,5 +4,3 @@ Console.WriteLine("Hello, World!");
 //VAMO NOSOTROS
 
 //modificado, se eliminaron archivos
-
-//pa mergear
